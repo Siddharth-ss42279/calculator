@@ -1,0 +1,21 @@
+E:\dotnet\project\calculator\calculator\bin\Debug\calculator.exe
+E:\dotnet\project\calculator\calculator\bin\Debug\calculator.pdb
+E:\dotnet\project\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+E:\dotnet\project\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+E:\dotnet\project\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+E:\dotnet\project\calculator\calculator\obj\x86\Debug\calculator.exe
+E:\dotnet\project\calculator\calculator\obj\x86\Debug\calculator.pdb
+E:\dotnet\project\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache
+H:\calculator\obj\x86\Debug\calculator.exe
+H:\calculator\obj\x86\Debug\calculator.pdb
+E:\ASP.net\calculator\obj\x86\Debug\calculator.exe
+E:\ASP.net\calculator\obj\x86\Debug\calculator.pdb
+E:\ASP.net\calculator final project files\obj\x86\Debug\calculator.exe
+E:\ASP.net\calculator final project files\obj\x86\Debug\calculator.pdb
+E:\ASP.net\calculator final project files\bin\Debug\calculator.exe
+E:\ASP.net\calculator final project files\bin\Debug\calculator.pdb
+E:\ASP.net\calculator final project files\obj\x86\Debug\calculator.Form1.resources
+E:\ASP.net\calculator final project files\obj\x86\Debug\calculator.Properties.Resources.resources
+E:\ASP.net\calculator final project files\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+E:\ASP.net\calculator final project files\bin\Debug\calculator.exe.CodeAnalysisLog.xml
+E:\ASP.net\calculator final project files\bin\Debug\calculator.exe.lastcodeanalysissucceeded
